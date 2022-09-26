@@ -10,9 +10,10 @@ namespace testvoorgit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("aaaa");
 
-
-
+        
+           
         }
     }
 }
